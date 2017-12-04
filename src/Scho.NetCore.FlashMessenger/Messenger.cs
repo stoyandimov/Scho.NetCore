@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Scho.NetCore.FlashMessenger.Storage;
 
-namespace Scho.NET.FlashMessenger
+namespace Scho.NetCore.FlashMessenger
 {
 	public class Messenger
 	{
