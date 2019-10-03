@@ -1,2 +1,2 @@
-# Scho.NetCore
-[![Travis](https://travis-ci.org/stoyandimov/Scho.NetCore.svg?branch=master)](https://travis-ci.org/stoyandimov/Scho.NetCore)
+# Scho.NetCore.FlashMessenger
+[![Travis](https://travis-ci.org/stoyandimov/Scho.NetCore.FlashMessenger.svg?branch=master)](https://travis-ci.org/stoyandimov/Scho.NetCore.FlashMessenger)
